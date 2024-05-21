@@ -5,7 +5,8 @@ const mongoose = require('mongoose');
 name: String,
 price:Number,
 brand: String,
-category:String
+category:String,
+phone:Number
 
 }
 
